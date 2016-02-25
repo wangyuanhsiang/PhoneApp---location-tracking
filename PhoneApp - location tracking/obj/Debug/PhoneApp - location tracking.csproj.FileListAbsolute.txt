@@ -1,0 +1,19 @@
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\PhoneApp - location tracking.dll
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\PhoneApp - location tracking.pdb
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\AppManifest.xaml
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\Bin\Debug\PhoneApp___location_tracking_Debug_AnyCPU.xap
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\App.g.cs
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\MainPage.g.cs
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\PhoneApp - location tracking.g.resources
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\PhoneApp___location_tracking.Resources.AppResources.resources
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\PhoneApp - location tracking.csproj.GenerateResource.Cache
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\PhoneApp - location tracking.dll
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\PhoneApp - location tracking.pdb
+c:\users\gerontech\documents\visual studio 2013\Projects\PhoneApp - location tracking\PhoneApp - location tracking\obj\Debug\XapCacheFile.xml
